@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spotify Album of the Day</string>
+    <string name="signin_text">Sign in to Spotify</string>
+    <string name="albumofday">Populate new album of the day</string>
+</resources>
